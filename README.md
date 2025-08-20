@@ -16,3 +16,4 @@ Artifacts are saved into `outputs/`:
 - The script automatically guesses the label column. If it’s wrong, pass `--target`.
 - PCA is applied after making the data dense; it keeps components that together explain ≥95% variance.
 - For best marks you can mention limitations and next steps (grid-search tree depth, cross-validation, handling class imbalance).
+https://colab.research.google.com/drive/1bUsyy21_ikYO_jDzL8y9W2laZWL7HKtg#scrollTo=0euZQ65rMPMI google colab link 
